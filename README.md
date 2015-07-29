@@ -1,11 +1,10 @@
+#Washington Economic Statistic Graphing
 
 
 **To Run:**
 
-* Decompress .zip file, cd to the directory in Terminal
-* run $ python3 manage.py run server
-* the ‘$’ is how to specify a Terminal command, don’t type it
-* Terminal should print out some shit…
+* cd to the directory in Terminal
+* $ python3 manage.py run server
 * In a browser, go to ‘localhost:8000/regionaldata
 * IT LIVES!! (or at least most of it does i think), check it out
 
