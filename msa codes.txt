@@ -1,0 +1,34 @@
+Aberdeen	00100
+Bellingham	05280
+Bremerton	07695
+Silverdale	64365
+Centralia	11160
+Ellensburg	21240
+Kennewick	35275
+Richland	58235
+Longview	40245
+Moses Lake	47245
+Anacortes	01990
+Mount Vernon	47560
+Oak Harbor	50360
+Olympia	51300
+Tumwater	72905
+Othello	52215
+Port Angeles	55365
+Vancouver	74060
+Pullman	56625
+Auburn	03180
+Bellevue	05210
+Everett	22640
+Kent	35415
+Lakewood	38038
+Redmond	57535
+Renton	57745
+Seattle	63000
+Tacoma	70000
+Shelton	63735
+Spokane	67000
+Spokane Valley	67167
+Walla Walla	75775
+Wenatchee	77105
+Yakima	80010

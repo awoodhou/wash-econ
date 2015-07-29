@@ -1,0 +1,127 @@
+United States	00000	Country
+United States (Metropolitan Portion)	00998	Country
+United States (Nonmetropolitan Portion)	00999	Country
+Alabama	01000	State
+Alaska	02000	State
+Arizona	04000	State
+Arkansas	05000	State
+California	06000	State
+Colorado	08000	State
+Connecticut	09000	State
+Delaware	10000	State
+District of Columbia	11000	State
+Florida	12000	State
+Georgia	13000	State
+Hawaii	15000	State
+Idaho	16000	State
+Illinois	17000	State
+Indiana	18000	State
+Iowa	19000	State
+Kansas	20000	State
+Kentucky	21000	State
+Louisiana	22000	State
+Maine	23000	State
+Maryland	24000	State
+Massachusetts	25000	State
+Michigan	26000	State
+Minnesota	27000	State
+Mississippi	28000	State
+Missouri	29000	State
+Montana	30000	State
+Nebraska	31000	State
+Nevada	32000	State
+New Hampshire	33000	State
+New Jersey	34000	State
+New Mexico	35000	State
+New York	36000	State
+North Carolina	37000	State
+North Dakota	38000	State
+Ohio	39000	State
+Oklahoma	40000	State
+Oregon	41000	State
+Pennsylvania	42000	State
+Rhode Island	44000	State
+South Carolina	45000	State
+South Dakota	46000	State
+Tennessee	47000	State
+Texas	48000	State
+Utah	49000	State
+Vermont	50000	State
+Virginia	51000	State
+Washington	53000	State
+West Virginia	54000	State
+Wisconsin	55000	State
+Wyoming	56000	State
+Asotin	53003	County
+Benton	53005	County
+Chelan	53007	County
+Clark	53011	County
+Columbia	53013	County
+Cowlitz	53015	County
+Douglas	53017	County
+Franklin	53021	County
+King	53033	County
+Kitsap	53035	County
+Pend Oreille	53051	County
+Pierce	53053	County
+Skagit	53057	County
+Skamania	53059	County
+Snohomish	53061	County
+Spokane	53063	County
+Stevens	53065	County
+Thurston	53067	County
+Walla Walla	53071	County
+Whatcom	53073	County
+Yakima	53077	County
+Adams	53001	NonMetCounty
+Clallam	53009	NonMetCounty
+Ferry	53019	NonMetCounty
+Garfield	53023	NonMetCounty
+Grant	53025	NonMetCounty
+Grays Harbor	53027	NonMetCounty
+Island	53029	NonMetCounty
+Jefferson	53031	NonMetCounty
+Kittitas	53037	NonMetCounty
+Klickitat	53039	NonMetCounty
+Lewis	53041	NonMetCounty
+Lincoln	53043	NonMetCounty
+Mason	53045	NonMetCounty
+Okanogan	53047	NonMetCounty
+Pacific	53049	NonMetCounty
+San Juan	53055	NonMetCounty
+Wahkiakum	53069	NonMetCounty
+Whitman	53075	NonMetCounty
+Aberdeen	00100	MSA
+Bellingham	05280	MSA
+Bremerton	07695	MSA
+Silverdale	64365	MSA
+Centralia	11160	MSA
+Ellensburg	21240	MSA
+Kennewick	35275	MSA
+Richland	58235	MSA
+Longview	40245	MSA
+Moses Lake	47245	MSA
+Anacortes	01990	MSA
+Mount Vernon	47560	MSA
+Oak Harbor	50360	MSA
+Olympia	51300	MSA
+Tumwater	72905	MSA
+Othello	52215	MSA
+Port Angeles	55365	MSA
+Vancouver	74060	MSA
+Pullman	56625	MSA
+Auburn	03180	MSA
+Bellevue	05210	MSA
+Everett	22640	MSA
+Kent	35415	MSA
+Lakewood	38038	MSA
+Redmond	57535	MSA
+Renton	57745	MSA
+Seattle	63000	MSA
+Tacoma	70000	MSA
+Shelton	63735	MSA
+Spokane	67000	MSA
+Spokane Valley	67167	MSA
+Walla Walla	75775	MSA
+Wenatchee	77105	MSA
+Yakima	80010	MSA

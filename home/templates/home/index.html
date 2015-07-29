@@ -1,0 +1,20 @@
+{% load staticfiles %}
+<link rel="stylesheet" type="text/css" href="{% static 'home/stylesheets/index.css' %}" />
+<link rel="stylesheet" type="text/css" href="{% static 'home/stylesheets/jquery-ui.min.css' %}" />
+
+<div id="header">
+    <h2>Washington State</h2>
+    <img src="{% static 'home/images/washington.png' %}" alt="Washington Logo" width="252" height="169" />
+    <h2>Economic Research Center</h2>
+</div>
+
+<div id="body">
+    <input type="search" id="search" placeholder="Search for Data" />
+    <h3>Or</h3>
+    <a href="/browse" id="browse">Browse Data</a>
+</div>
+
+<script type="text/javascript" src="{% static 'home/javascripts/jquery.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'home/javascripts/jquery-ui.min.js' %}"></script>
+<script type="text/javascript" src="{% static 'home/javascripts/index.js' %}"></script>
+
